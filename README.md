@@ -24,7 +24,7 @@
 <!-- markdown-toc end -->
 
 # Introduction
-`rust-mode` makes editing [Rust](http://rust-lang.org) code with Emacs
+`dust-mode` makes editing [Rust](http://rust-lang.org) code with Emacs
 enjoyable. It requires Emacs 25 or later, and is included in both
 [Emacs Prelude](https://github.com/bbatsov/prelude) and
 [Spacemacs](https://github.com/syl20bnr/spacemacs) by default.
